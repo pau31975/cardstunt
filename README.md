@@ -23,10 +23,13 @@
 >>> The color in each pixels needs to be shifted toward the closest 64 available colors to account for the cardstunt performance in real life which the users have limited amount of color cards.
 
 
-
+## The Chosen 64 Colors
+![color palette cmyk ref - hsv_full_flip](https://user-images.githubusercontent.com/31640879/172179658-99c2b464-a3eb-4f3c-915d-cb5a63e2461e.png)
 
 
 ### The Effect of the OpenCV Color Change Algorithm
 
-![color palette cmyk ref - hsv_full_flip](https://user-images.githubusercontent.com/31640879/172179658-99c2b464-a3eb-4f3c-915d-cb5a63e2461e.png)![model2 color picker test inc_vib](https://user-images.githubusercontent.com/31640879/172177331-dca75d18-1925-410d-a48d-37a7a4fb70b8.png)
-![model2 obama poster inc_vib](https://user-images.githubusercontent.com/31640879/172177058-875de4ca-970a-4ccc-b04f-7e8756f7a205.png) ![model2 santorini](https://user-images.githubusercontent.com/31640879/172177402-89fed0a9-8794-4070-82b1-68d5e3c2b529.png)
+
+![model2 color picker test inc_vib](https://user-images.githubusercontent.com/31640879/172177331-dca75d18-1925-410d-a48d-37a7a4fb70b8.png)
+![model2 obama poster inc_vib](https://user-images.githubusercontent.com/31640879/172177058-875de4ca-970a-4ccc-b04f-7e8756f7a205.png)
+![model2 santorini](https://user-images.githubusercontent.com/31640879/172177402-89fed0a9-8794-4070-82b1-68d5e3c2b529.png)
