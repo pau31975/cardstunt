@@ -1,5 +1,8 @@
 # Cardstunt
 
+
+
+
 ## An Example of a Cardstunt Pperformance in Real Life
 
 ![EJeV1FaVAAIBs9c](https://user-images.githubusercontent.com/31640879/172178681-409c18f8-ad3f-468a-9c1d-f822032d9e0c.jpg)
@@ -13,8 +16,14 @@
 >>> Take photos via a camera module / Output the card-flipping simulation to the servo motor
 
 
+
+
+
 ## OpenCV Color Change Algorithm
 >>> The color in each pixels needs to be shifted toward the closest 64 available colors to account for the cardstunt performance in real life which the users have limited amount of color cards.
+
+
+
 
 ### The Effect of the OpenCV Color Change Algorithm
 
