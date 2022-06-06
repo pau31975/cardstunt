@@ -1,4 +1,9 @@
-# cardstunt
+# Cardstunt
+
+*** An Example of a cardstunt performance in real life ***
+
+![EJeV1FaVAAIBs9c](https://user-images.githubusercontent.com/31640879/172178681-409c18f8-ad3f-468a-9c1d-f822032d9e0c.jpg)
+
 A Cardstunt Simulation Program using Servo Motor
 1. OpenCV
 >>> Resize the images / Change the color in each pixel into the closest avalaible card colors
