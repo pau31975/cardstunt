@@ -3,7 +3,7 @@
 
 
 
-## An Example of a Cardstunt Pperformance in Real Life
+## An Example of a Cardstunt Performance in Real Life
 
 ![EJeV1FaVAAIBs9c](https://user-images.githubusercontent.com/31640879/172178681-409c18f8-ad3f-468a-9c1d-f822032d9e0c.jpg)
 
