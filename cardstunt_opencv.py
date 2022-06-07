@@ -240,3 +240,4 @@ def reset(out_list):
     time.sleep(0.05)
     servo1.ChangeDutyCycle(0)
     print("Reset Successfully")
+    
